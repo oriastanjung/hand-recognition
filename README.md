@@ -5,3 +5,5 @@
 ## mediapipe
 ## cvzone
 ## opencv-python
+### DATASET : https://www.kaggle.com/datasets/pramod722445/sign-language-dataset 
+
